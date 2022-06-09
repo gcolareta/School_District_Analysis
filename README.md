@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-Due to evidence of academic dishonesty on the reading and math scores for Thomas High School ninth graders, the PyCitySchools reports previously generated for the District must be modified. In this analysis, the reading and math scores for Thomas High School ninth graders have been invalidated to uphold state-testing standards. A new Distric Analysis and Schools Analysis have been conducted to reflect the clean data and describe how these changes affected the overall analysis.
+Due to evidence of academic dishonesty on the reading and math scores for Thomas High School ninth graders, the PyCitySchools reports previously generated for the District must be modified. In this analysis, the reading and math scores for Thomas High School ninth graders have been invalidated to uphold state-testing standards. A new Distric and Schools Analysis have been conducted to reflect the clean data and describe how these changes affected the overall analysis.
 <img width="969" alt="Before Per school summary" src="https://user-images.githubusercontent.com/104762216/172949408-be06436d-2ae4-4a55-8b1a-0f9e88e0d9ed.png">
 
 ## Results
